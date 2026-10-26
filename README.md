@@ -4,7 +4,7 @@ Videojuego retro de Halloween en pixel art, inspirado en los arcades de 8 bits. 
 
 Hecho con HTML, CSS y JavaScript puro: **un solo archivo, sin dependencias ni instalación**. Los sonidos y la música se generan en tiempo real con la Web Audio API.
 
-👉 **Jugar ahora:** [ENLACE-AL-JUEGO]
+👉 Jugar ahora: https://pablo-profetechmike.github.io/Halloween-Dig/
 
 ![captura](captura.png)
 
