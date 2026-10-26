@@ -6,7 +6,7 @@ Hecho con HTML, CSS y JavaScript puro: **un solo archivo, sin dependencias ni in
 
 👉 Jugar ahora: https://pablo-profetechmike.github.io/Halloween-Dig/
 
-![captura](captura.png)
+![captura](Halloween Dig.png)
 
 ## ✨ Características
 
