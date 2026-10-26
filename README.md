@@ -52,7 +52,7 @@ python3 -m http.server 8000
 1. Sube `index.html` a la rama `main`.
 2. Ve a **Settings → Pages**.
 3. En *Source* elige **Deploy from a branch**, rama `main`, carpeta `/ (root)`.
-4. Tu juego quedará en `https://TU-USUARIO.github.io/halloween-dig/`.
+4. Tu juego quedará en `https://github.com/Pablo-ProfeTechMike/Halloween-Dig`.
 
 ## 🧱 Estructura
 
